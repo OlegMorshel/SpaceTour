@@ -10,7 +10,7 @@ In this project I start to deploy a slider and more interesting design.
 
 * *HTML 5*
 * *CSS 3*
-* *JS (JQuery)
+* *JS (JQuery)*
 
 I have used a slider for the first time. And I can do more difficult web site.
 
