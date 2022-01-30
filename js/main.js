@@ -16,4 +16,9 @@ $(function () {
 	$('.menu__list-btn').on('click', function () {
 		$('.menu__list').toggleClass('active');
 	});
+<<<<<<< HEAD
 });
+=======
+
+});
+>>>>>>> 8548d7124ce723e6f75b3b819853fbec71442e71
