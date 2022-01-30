@@ -15,3 +15,5 @@ In this project I start to deploy a slider and more interesting design.
 I have used a slider for the first time. And I can do more difficult web site.
 
 For opening the project You should click to this [link](https://olegmorshel.github.io/SpaceTour/)...
+
+![image](https://github.com/OlegMorshel/SpaceTour/blob/master/images/spaceWeb.png)
