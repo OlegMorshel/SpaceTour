@@ -12,9 +12,8 @@ $(function () {
 			}
 		]
 	});	
-
+ 
 	$('.menu__list-btn').on('click', function () {
 		$('.menu__list').toggleClass('active');
 	});
-
 });
